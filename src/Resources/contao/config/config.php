@@ -26,7 +26,7 @@ $GLOBALS['BE_MOD']['om_security'] = [
 /**
  * Frontend modules
  */
-$GLOBALS['FE_MOD']['user']['registration'] = 'OMOSde\ContaoOmSecurityBundle\ModuleRegistration';
+//$GLOBALS['FE_MOD']['user']['registration'] = 'OMOSde\ContaoOmSecurityBundle\ModuleRegistration';
 
 
 /**
