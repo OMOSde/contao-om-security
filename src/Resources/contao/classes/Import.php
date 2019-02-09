@@ -81,7 +81,10 @@ class Import extends \Backend
                 $resFile = $objFile->handle;
                 while (($arrRow = @fgetcsv($resFile, null, ';')) !== false)
                 {
-                    $arrCsvPasswords[] = $arrRow['0'];
+                    if (strlen($arrRow[0]))
+                    {
+                        $arrCsvPasswords[] = $arrRow['0'];
+                    }
                 }
             }
 
