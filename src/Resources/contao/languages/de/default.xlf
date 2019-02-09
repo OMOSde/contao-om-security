@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+    <file datatype="php" original="src/Resources/contao/languages/en/default.php" source-language="en" target-language="de">
+        <body>
+            <trans-unit id="OM_SECURITY.MSC.importText">
+                <source>Please select one or more file for upload.</source>
+                <target>Wählen Sie eine oder mehrere Dateien für den Import aus.</target>
+            </trans-unit>
+            <trans-unit id="OM_SECURITY.MSC.importButton">
+                <source>Import</source>
+                <target>Import</target>
+            </trans-unit>
+            <trans-unit id="OM_SECURITY.MSC.importTitle">
+                <source>Files</source>
+                <target>Quelldateien</target>
+            </trans-unit>
+            <trans-unit id="OM_SECURITY.ERR.onPasswordList">
+                <source>This password is on the list of prohibited passwords.</source>
+                <target>Dieses Passwort steht auf der Liste der verbotenen Passwörter.</target>
+            </trans-unit>
+            <trans-unit id="OM_SECURITY.ERR.noPasswordListFound">
+                <source>No password list found.</source>
+                <target>Es wurde keine Passwortliste gefunden.</target>
+            </trans-unit>
+            <trans-unit id="OM_SECURITY.ERR.noPasswordsFound">
+                <source>No passwords found.</source>
+                <target>Es wurden keine Passwörter gefunden.</target>
+            </trans-unit>
+            <trans-unit id="OM_SECURITY.ERR.invalidTargetPath">
+                <source>Upload - Invalid target path</source>
+                <target>Upload - Ungültiger Zielpfad</target>
+            </trans-unit>
+            <trans-unit id="OM_SECURITY.ERR.cantCreateFile">
+                <source>Can´t create file</source>
+                <target>Datei kann nicht erstellt werden</target>
+            </trans-unit>
+            <trans-unit id="OM_SECURITY.ERR.undefined">
+                <source>Undefined error</source>
+                <target>Unbekannter Fehler</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+    <file datatype="php" original="src/Resources/contao/languages/en/modules.php" source-language="en" target-language="de">
+        <body>
+            <trans-unit id="MOD.om_security">
+                <source>Security</source>
+                <target>Sicherheit</target>
+            </trans-unit>
+            <trans-unit id="MOD.password_list.0">
+                <source>Password lists</source>
+                <target>Passwortlisten</target>
+            </trans-unit>
+            <trans-unit id="MOD.password_list.1">
+                <source>Manage password ists</source>
+                <target>Passwortlisten verwalten</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

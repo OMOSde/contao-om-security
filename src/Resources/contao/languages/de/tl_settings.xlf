@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+    <file datatype="php" original="src/Resources/contao/languages/en/tl_settings.php" source-language="en" target-language="de">
+        <body>
+            <trans-unit id="tl_settings.passwordList.0">
+                <source>Useassword list</source>
+                <target>Passwortliste verwenden</target>
+            </trans-unit>
+            <trans-unit id="tl_settings.passwordList.1">
+                <source>Please select a password list.</source>
+                <target>Bitte wählen Sie eine Passwortliste aus.</target>
+            </trans-unit>
+            <trans-unit id="tl_settings.security_legend">
+                <source>Security settings (contao-om-security)</source>
+                <target>Sicherheitseinstellungen (contao-om-security)</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

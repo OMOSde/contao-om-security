@@ -1,0 +1,4 @@
+
+<div class="<?= $this->class; ?>">
+    mod_om_security_import
+</div>
